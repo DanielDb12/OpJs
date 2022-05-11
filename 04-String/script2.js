@@ -8,3 +8,5 @@ const estudiante = Nombre.concat(" ").concat(Apellido),
   lastletter = Apellido[Apellido.length - 1],
   deleteName = estudiante.replace(/ /g, ""),
 nombreEnEstudiante = estudiante.includes(Nombre)
+
+
